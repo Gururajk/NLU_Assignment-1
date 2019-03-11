@@ -1,0 +1,9 @@
+numpy
+nltk
+math
+random
+pickle
+time
+re
+itertools
+matplotlib
